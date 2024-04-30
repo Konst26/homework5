@@ -73,7 +73,7 @@ public class Main {
                 System.out.println("Осень");
                 break;
             default:
-                System.out.println("другого сезона не существует");
+                System.out.println("других сезонов не существует");
         }
     }
 }
